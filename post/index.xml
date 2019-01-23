@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vinay Ramasesh</title>
+    <link>https://ramasesh.github.io/post/</link>
+    <description>Recent content in Posts on Vinay Ramasesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://ramasesh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Hamiltonian Monte Carlo</title>
+      <link>https://ramasesh.github.io/post/introduction-to-hamiltonian-monte-carlo/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramasesh.github.io/post/introduction-to-hamiltonian-monte-carlo/</guid>
+      <description>Introduction to Hamiltonian Monte Carlo Vinay Ramasesh, September 2018 Comments/questions/errata welcome: ramasesh@berkeley.edu
+This notebook is an updated one originally written for a Machine Learning at Berkeley reading group given Fall 2018, discussing the paper Generalizing Hamiltonian Monte Carlo with Neural Networks by Daniel Levy et al. This notebook doesn&amp;rsquo;t discuss the paper itself, but rather aims to introduce Hamiltonian Monte Carlo to undergraduates studying physics or CS who have limited-to-no experience with sampling, and only a basic understanding of probability distributions.</description>
+    </item>
+    
+  </channel>
+</rss>

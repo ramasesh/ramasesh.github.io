@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Vinay Ramasesh</title>
+    <link>https://ramasesh.github.io/publication/</link>
+    <description>Recent content in Publications on Vinay Ramasesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://ramasesh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

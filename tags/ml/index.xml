@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on Vinay Ramasesh</title>
+    <link>https://ramasesh.github.io/tags/ml/</link>
+    <description>Recent content in ML on Vinay Ramasesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 02:04:35 -0800</lastBuildDate>
+    
+	<atom:link href="https://ramasesh.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Sampling using Hamiltonian Monte-Carlo</title>
+      <link>https://ramasesh.github.io/project/hmc/</link>
+      <pubDate>Wed, 23 Jan 2019 02:04:35 -0800</pubDate>
+      
+      <guid>https://ramasesh.github.io/project/hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading Group: Adversarial Spheres</title>
+      <link>https://ramasesh.github.io/project/adv_spheres/</link>
+      <pubDate>Wed, 23 Jan 2019 02:02:32 -0800</pubDate>
+      
+      <guid>https://ramasesh.github.io/project/adv_spheres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random matrix theory via undergrad physics</title>
+      <link>https://ramasesh.github.io/project/rmt/</link>
+      <pubDate>Wed, 23 Jan 2019 02:01:19 -0800</pubDate>
+      
+      <guid>https://ramasesh.github.io/project/rmt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
