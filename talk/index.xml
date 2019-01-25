@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Vinay Ramasesh</title>
+    <title>K12 Outreach Videos on Vinay Ramasesh</title>
     <link>https://ramasesh.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Vinay Ramasesh</description>
+    <description>Recent content in K12 Outreach Videos on Vinay Ramasesh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://ramasesh.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eratosthenes and the Earth&#39;s Circumference</title>
+      <link>https://ramasesh.github.io/talk/eratosthenes/</link>
+      <pubDate>Fri, 09 Mar 2012 00:00:00 -0800</pubDate>
+      
+      <guid>https://ramasesh.github.io/talk/eratosthenes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

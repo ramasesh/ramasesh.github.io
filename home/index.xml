@@ -39,11 +39,11 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://ramasesh.github.io/home/about/</link>
+      <title>K12 Outreach Videos</title>
+      <link>https://ramasesh.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ramasesh.github.io/home/about/</guid>
+      <guid>https://ramasesh.github.io/home/talks/</guid>
       <description></description>
     </item>
     
@@ -54,6 +54,15 @@
       
       <guid>https://ramasesh.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ramasesh.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://ramasesh.github.io/home/about/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -116,15 +125,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ramasesh.github.io/home/talks_featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ramasesh.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://ramasesh.github.io/home/talks/</guid>
       <description></description>
     </item>
     
